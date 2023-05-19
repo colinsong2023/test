@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Validator;
 class PostController extends Controller
 {
     /**
+     * blog2
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response

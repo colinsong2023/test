@@ -9,6 +9,7 @@ class FileUploadController extends Controller
 {
     public function uploadForm()
     {
+        //blog 2 dev change
         return view('upload');
     }
 
